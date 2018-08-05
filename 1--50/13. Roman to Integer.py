@@ -24,7 +24,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4."""
 
 class Solution:
     def romanToInt(self, s):
-        """
+        """pyc
         :type s: str
         :rtype: int
         """
